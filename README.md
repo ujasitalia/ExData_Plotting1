@@ -1,3 +1,6 @@
+## This repo doesnt have the dataset text file because it exceeded 100 mb and github didnt allow it to push.
+
+
 ## Introduction
 
 This assignment uses data from
