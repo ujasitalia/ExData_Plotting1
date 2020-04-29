@@ -1,4 +1,5 @@
 ## This repo doesnt have the dataset text file because it exceeded 100 mb and github didnt allow it to push.
+## but I have added the zip file that contains the dataset.
 
 
 ## Introduction
